@@ -1,4 +1,4 @@
 {
   "schemaVersion": 2,
-  "imageName": "linuxserver/openvscode-server:1.63.0"
+  "imageName": "linuxserver/openvscode-server:1.63.2"
 }
